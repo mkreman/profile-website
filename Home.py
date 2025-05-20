@@ -14,12 +14,6 @@ To know about my education and experience visit the [Education](Education) page.
 I am passionate about building fair and efficient machine learning models and exploring the intersection of AI and data science.
 """)
 
-# **Education:**  
-# I hold an M.Sc. in Data Science (2025) from CMI and an M.Sc. in Mathematics from IIT Gandhinagar.  
-
-# **Experience:**  
-# I have worked as an AI Intern at HP and conducted research at IIT Bhilai.  
-
 # Skills
 st.header("🧠 Skills")
 st.markdown("""
